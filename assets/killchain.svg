@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 128" width="980" height="128" role="img" aria-label="Methodology: recon, enumerate, exploit, escalate, report, remediate">
+<rect x="0.5" y="0.5" width="979" height="127" rx="8" fill="#05070a" stroke="#252b36"/>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace">
+<g>
+  <rect x="10" y="22" width="140" height="84" rx="6" fill="#0a0d12" stroke="#252b36" stroke-width="1.5">
+    <animate attributeName="stroke" values="#252b36;#252b36;#ff2d2d;#ff2d2d;#252b36;#252b36" keyTimes="0;0.000;0.010;0.130;0.140;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0a0d12;#0a0d12;#1a0a0c;#1a0a0c;#0a0d12;#0a0d12" keyTimes="0;0.000;0.010;0.130;0.140;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <text x="24" y="46" font-size="12" fill="#ff2d2d" font-weight="700">01</text>
+  <text x="24" y="73" font-size="15" fill="#f5f7fa" font-weight="800" letter-spacing="1.5">RECON</text>
+  <text x="24" y="92" font-size="11" fill="#8b949e" letter-spacing="1">discover</text>
+</g>
+<path d="M156 64H168M163 59L169 64L163 69" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<g>
+  <rect x="174" y="22" width="140" height="84" rx="6" fill="#0a0d12" stroke="#252b36" stroke-width="1.5">
+    <animate attributeName="stroke" values="#252b36;#252b36;#ff2d2d;#ff2d2d;#252b36;#252b36" keyTimes="0;0.145;0.155;0.275;0.285;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0a0d12;#0a0d12;#1a0a0c;#1a0a0c;#0a0d12;#0a0d12" keyTimes="0;0.145;0.155;0.275;0.285;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <text x="188" y="46" font-size="12" fill="#ff2d2d" font-weight="700">02</text>
+  <text x="188" y="73" font-size="15" fill="#f5f7fa" font-weight="800" letter-spacing="1.5">ENUMERATE</text>
+  <text x="188" y="92" font-size="11" fill="#8b949e" letter-spacing="1">map</text>
+</g>
+<path d="M320 64H332M327 59L333 64L327 69" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<g>
+  <rect x="338" y="22" width="140" height="84" rx="6" fill="#0a0d12" stroke="#252b36" stroke-width="1.5">
+    <animate attributeName="stroke" values="#252b36;#252b36;#ff2d2d;#ff2d2d;#252b36;#252b36" keyTimes="0;0.290;0.300;0.420;0.430;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0a0d12;#0a0d12;#1a0a0c;#1a0a0c;#0a0d12;#0a0d12" keyTimes="0;0.290;0.300;0.420;0.430;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <text x="352" y="46" font-size="12" fill="#ff2d2d" font-weight="700">03</text>
+  <text x="352" y="73" font-size="15" fill="#f5f7fa" font-weight="800" letter-spacing="1.5">EXPLOIT</text>
+  <text x="352" y="92" font-size="11" fill="#8b949e" letter-spacing="1">prove</text>
+</g>
+<path d="M484 64H496M491 59L497 64L491 69" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<g>
+  <rect x="502" y="22" width="140" height="84" rx="6" fill="#0a0d12" stroke="#252b36" stroke-width="1.5">
+    <animate attributeName="stroke" values="#252b36;#252b36;#ff2d2d;#ff2d2d;#252b36;#252b36" keyTimes="0;0.435;0.445;0.565;0.575;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0a0d12;#0a0d12;#1a0a0c;#1a0a0c;#0a0d12;#0a0d12" keyTimes="0;0.435;0.445;0.565;0.575;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <text x="516" y="46" font-size="12" fill="#ff2d2d" font-weight="700">04</text>
+  <text x="516" y="73" font-size="15" fill="#f5f7fa" font-weight="800" letter-spacing="1.5">ESCALATE</text>
+  <text x="516" y="92" font-size="11" fill="#8b949e" letter-spacing="1">pivot</text>
+</g>
+<path d="M648 64H660M655 59L661 64L655 69" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<g>
+  <rect x="666" y="22" width="140" height="84" rx="6" fill="#0a0d12" stroke="#252b36" stroke-width="1.5">
+    <animate attributeName="stroke" values="#252b36;#252b36;#ff2d2d;#ff2d2d;#252b36;#252b36" keyTimes="0;0.580;0.590;0.710;0.720;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0a0d12;#0a0d12;#1a0a0c;#1a0a0c;#0a0d12;#0a0d12" keyTimes="0;0.580;0.590;0.710;0.720;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <text x="680" y="46" font-size="12" fill="#ff2d2d" font-weight="700">05</text>
+  <text x="680" y="73" font-size="15" fill="#f5f7fa" font-weight="800" letter-spacing="1.5">REPORT</text>
+  <text x="680" y="92" font-size="11" fill="#8b949e" letter-spacing="1">document</text>
+</g>
+<path d="M812 64H824M819 59L825 64L819 69" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<g>
+  <rect x="830" y="22" width="140" height="84" rx="6" fill="#0a0d12" stroke="#252b36" stroke-width="1.5">
+    <animate attributeName="stroke" values="#252b36;#252b36;#ff2d2d;#ff2d2d;#252b36;#252b36" keyTimes="0;0.725;0.735;0.855;0.865;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0a0d12;#0a0d12;#1a0a0c;#1a0a0c;#0a0d12;#0a0d12" keyTimes="0;0.725;0.735;0.855;0.865;1" dur="12s" repeatCount="indefinite"/>
+  </rect>
+  <text x="844" y="46" font-size="12" fill="#ff2d2d" font-weight="700">06</text>
+  <text x="844" y="73" font-size="15" fill="#f5f7fa" font-weight="800" letter-spacing="1.5">REMEDIATE</text>
+  <text x="844" y="92" font-size="11" fill="#8b949e" letter-spacing="1">fix</text>
+</g>
+
+</g>
+</svg>

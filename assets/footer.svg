@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Session active. Research continues.">
+<defs><linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2d2d" stop-opacity="0"/><stop offset="0.5" stop-color="#ff2d2d"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="999" height="149" rx="8" fill="#05070a" stroke="#252b36"/>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace">
+  <path d="M0 52H360L376 52L388 24L402 82L416 8L432 66L444 52H1000" fill="none" stroke="#252b36" stroke-width="2"/>
+  <path d="M0 52H360L376 52L388 24L402 82L416 8L432 66L444 52H1000" fill="none" stroke="url(#fade)" stroke-width="2.5" pathLength="1000" stroke-dasharray="180 820">
+    <animate attributeName="stroke-dashoffset" values="180;-1000" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <text x="500" y="110" font-size="14" letter-spacing="6" text-anchor="middle" fill="#f5f7fa" font-weight="700" xml:space="preserve">[ SESSION ACTIVE ]   [ RESEARCH CONTINUES ]</text>
+  <text x="500" y="136" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8b949e">root@zeroday:~# <tspan fill="#ff2d2d">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</g>
+</svg>

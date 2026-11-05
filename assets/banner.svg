@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Ishan Chowdhury, Security Researcher, Developer, Red Team">
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ff2d2d" stop-opacity="0.20"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/></radialGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff2d2d" stop-opacity="0"/><stop offset="0.5" stop-color="#ff2d2d" stop-opacity="0.13"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/></linearGradient>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2d2d" stop-opacity="0"/><stop offset="0.5" stop-color="#ff2d2d"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/></linearGradient>
+  <linearGradient id="vig" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="0.18" stop-color="#000" stop-opacity="0"/><stop offset="0.82" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.55"/></linearGradient>
+  <clipPath id="frame"><rect width="1200" height="340" rx="6"/></clipPath>
+</defs>
+<g clip-path="url(#frame)" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace">
+  <rect width="1200" height="340" fill="#05070a"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <ellipse cx="600" cy="175" rx="560" ry="190" fill="url(#glow)"/>
+  <text x="40" y="96" font-size="11" fill="#ffffff" fill-opacity="0.10">7f45 4c46 0201 0100<animate attributeName="fill-opacity" values="0.05;0.2;0.05" dur="3.0s" repeatCount="indefinite"/></text>
+<text x="1160" y="96" font-size="11" text-anchor="end" fill="#ffffff" fill-opacity="0.10">4d5a 9000 0300 0000<animate attributeName="fill-opacity" values="0.2;0.05;0.2" dur="3.4s" repeatCount="indefinite"/></text>
+<text x="40" y="116" font-size="11" fill="#ffffff" fill-opacity="0.10">0000 0000 0000 0000<animate attributeName="fill-opacity" values="0.05;0.2;0.05" dur="3.6s" repeatCount="indefinite"/></text>
+<text x="1160" y="116" font-size="11" text-anchor="end" fill="#ffffff" fill-opacity="0.10">0400 0000 ffff 0000<animate attributeName="fill-opacity" values="0.2;0.05;0.2" dur="3.9s" repeatCount="indefinite"/></text>
+<text x="40" y="136" font-size="11" fill="#ffffff" fill-opacity="0.10">0200 3e00 0100 0000<animate attributeName="fill-opacity" values="0.05;0.2;0.05" dur="4.2s" repeatCount="indefinite"/></text>
+<text x="1160" y="136" font-size="11" text-anchor="end" fill="#ffffff" fill-opacity="0.10">b800 0000 0000 0000<animate attributeName="fill-opacity" values="0.2;0.05;0.2" dur="4.4s" repeatCount="indefinite"/></text>
+<text x="40" y="156" font-size="11" fill="#ffffff" fill-opacity="0.10">c510 4000 0000 0000<animate attributeName="fill-opacity" values="0.05;0.2;0.05" dur="4.8s" repeatCount="indefinite"/></text>
+<text x="1160" y="156" font-size="11" text-anchor="end" fill="#ffffff" fill-opacity="0.10">4000 0000 0000 0000<animate attributeName="fill-opacity" values="0.2;0.05;0.2" dur="4.9s" repeatCount="indefinite"/></text>
+<text x="40" y="176" font-size="11" fill="#ffffff" fill-opacity="0.10">4000 0000 0000 0000<animate attributeName="fill-opacity" values="0.05;0.2;0.05" dur="5.4s" repeatCount="indefinite"/></text>
+<text x="1160" y="176" font-size="11" text-anchor="end" fill="#ffffff" fill-opacity="0.10">0000 0000 0000 0000<animate attributeName="fill-opacity" values="0.2;0.05;0.2" dur="5.4s" repeatCount="indefinite"/></text>
+
+  <rect x="0" y="-70" width="1200" height="70" fill="url(#scan)"><animate attributeName="y" values="-70;340" dur="5.5s" repeatCount="indefinite"/></rect>
+  <rect width="1200" height="340" fill="url(#vig)"/>
+
+  <text x="48" y="52" font-size="13" fill="#8b949e" letter-spacing="1">root@zeroday:~# <tspan fill="#ff4d4d">./access --grant</tspan></text>
+  <g font-size="13" letter-spacing="2" text-anchor="end">
+    <text x="1138" y="52" fill="#8b949e">SESSION ACTIVE</text>
+  </g>
+  <circle cx="1156" cy="48" r="4" fill="#ff2d2d"><animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/></circle>
+
+  <!-- glitch name -->
+  <g font-size="78" font-weight="800" letter-spacing="8" text-anchor="middle">
+    <text x="600" y="186" fill="#ff2d2d" fill-opacity="0.85">ISHAN CHOWDHURY
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;-6 1;5 -1;-3 0;0 0" keyTimes="0;0.86;0.89;0.92;0.95;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="186" fill="#00e5ff" fill-opacity="0.55">ISHAN CHOWDHURY
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;6 -1;-5 1;3 0;0 0" keyTimes="0;0.86;0.89;0.92;0.95;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="186" fill="#f5f7fa">ISHAN CHOWDHURY</text>
+  </g>
+
+  <rect x="470" y="206" width="260" height="2" fill="url(#sweep)"/>
+  <text x="600" y="243" font-size="20" font-weight="700" letter-spacing="7" text-anchor="middle" fill="#ff4d4d" xml:space="preserve">SECURITY RESEARCHER // DEVELOPER // RED TEAM</text>
+  <text x="600" y="282" font-size="13" letter-spacing="4" text-anchor="middle" fill="#8b949e" xml:space="preserve">VULNERABILITY RESEARCH  ·  APPLICATION SECURITY  ·  AI SECURITY<tspan fill="#ff2d2d">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+
+  <!-- corner brackets -->
+  <g fill="none" stroke="#ff2d2d" stroke-width="2" stroke-linecap="square">
+    <path d="M16 40V16H40"/><path d="M1160 16H1184V40"/><path d="M16 300V324H40"/><path d="M1160 324H1184V300"/>
+  </g>
+  <!-- edge rails -->
+  <rect x="0" y="338" width="1200" height="2" fill="#252b36"/>
+  <rect x="-300" y="338" width="300" height="2" fill="url(#sweep)"><animate attributeName="x" values="-300;1200" dur="3.2s" repeatCount="indefinite"/></rect>
+  <rect x="0" y="0" width="1200" height="2" fill="#252b36"/>
+  <rect x="1200" y="0" width="300" height="2" fill="url(#sweep)"><animate attributeName="x" values="1200;-300" dur="3.2s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
